@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transcender", "transcender\Transcender.csproj", "{D24E0DA0-4F8D-4079-9310-60FE10EFC5AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24E0DA0-4F8D-4079-9310-60FE10EFC5AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24E0DA0-4F8D-4079-9310-60FE10EFC5AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24E0DA0-4F8D-4079-9310-60FE10EFC5AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24E0DA0-4F8D-4079-9310-60FE10EFC5AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D94A7E38-D369-407E-A6B1-E9CA685D5122}
+	EndGlobalSection
+EndGlobal
